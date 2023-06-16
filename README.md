@@ -3,6 +3,6 @@ An example iOS app that showed the number of infected, hospitalized persons in S
 
 
 
-<img src="/Screenshots/Cantons.png" alt="drawing" width="400"/>
+<img src="/Screenshots/Cantons.png" alt="drawing" width="300"/>
 
 
