@@ -3,3 +3,6 @@ An example iOS app that showed the number of infected, hospitalized persons in S
 
 ![Cantons](/Screenshots/Cantons.png =100x80 "Choose canton" )
 
+<img src="/Screenshots/Cantons.png" alt="drawing" width="200"/>
+
+
