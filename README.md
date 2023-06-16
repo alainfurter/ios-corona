@@ -1,5 +1,5 @@
 # ios-corona
-An example iOS app that showed the number of infected, hospitalized persons in Switzerland per canton during the corona crisis
+An example iOS app that showed the number of infected, hospitalized persons in Switzerland per canton during the corona crisis.
 
 This was an example ios app to demonstrate how to pull and visualize the corona data that was collected in online respositories by many voluntary helpers around the country during the corona epidemic. 
 
@@ -16,5 +16,5 @@ User interface / flow in the app as follows:
 <h4>3.) Open the side menu in order to switch to another canton</h4>
 <img src="/Screenshots/SideMenu.png" alt="Side menu" width="200"/>
 
-Thank you for your interest.
+Thank you for your interest.</br>
 Alain Furter
