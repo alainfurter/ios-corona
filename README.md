@@ -16,5 +16,5 @@ User interface / flow in the app as follows:
 <h4>3.) Open the side menu in order to switch to another canton</h4>
 <img src="/Screenshots/SideMenu.png" alt="Side menu" width="200"/>
 
-Thank you for your interest
+Thank you for your interest.
 Alain Furter
